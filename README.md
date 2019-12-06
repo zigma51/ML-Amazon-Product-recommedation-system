@@ -21,11 +21,6 @@ dataframe.to_csv('reviews.csv', sep=',', index=False)
     
 #### Recommender system:    
 k-Nearest Neighbors is used to perform [item-based collaborative filtering](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/Recommender%20System)    
-    
-### Contibutions    
-1. Sowmya Dharanipragada - [Feature Engineering, Support Vector Machines (SVM), Logistic Regression, Rating and upvote prediction](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/Logistic%20Regression%20)    
-2. Anushree Sinha - [Feature Engineering, K means clustering, Sentiment Intensity Analyzer, LSTM](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/LSTM)    
-3. Mandeep Kaur - [Feature Engineering, Naive Bayes - Multinomial, Naive Bayes - Bernoulli, Logistic Regression](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/Naive%20Bayes), and [Recommendation system](https://github.com/mandeep147/Amazon-Product-Recommender-System/tree/master/Recommender%20System)
         
 ### References:    
 1. [J. McAuley and J. Leskovec. Hidden factors and hidden topics: understanding rating dimensions with review text. RecSys, 2013.](http://i.stanford.edu/~julian/pdfs/recsys13.pdf)    
